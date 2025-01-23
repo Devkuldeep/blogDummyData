@@ -1,0 +1,8 @@
+{
+  "title": "My First Blog Post",
+  "slug": "my-first-blog-post",
+  "content": "<div class=\"p-4 bg-white rounded-lg shadow-md\">\n        <h2 class=\"text-2xl font-bold mb-4\">My First Blog Post</h2>\n        <p class=\"text-gray-700\">\n            This is the content of my first blog post. \n            <span class=\"font-bold\">It can be long and detailed.</span>\n            You can use HTML and Tailwind CSS within the content field to style your blog posts. \n        </p>\n        <p class=\"text-gray-700 mt-4\">\n            For example, you can add:\n            <ul class=\"list-disc ml-5\">\n                <li>Lists</li>\n                <li>Links: <a href=\"https://www.example.com\" class=\"text-blue-500 underline\">Example Link</a></li>\n                <li>Images: <img src=\"images/example.jpg\" alt=\"Example Image\" class=\"rounded-md w-24 h-24 object-cover\"> </li>\n            </ul>\n        </p>\n    </div>",
+  "author": "John Doe",
+  "tags": ["technology", "programming"],
+  "image_url": "images/blog1.jpg"
+}
